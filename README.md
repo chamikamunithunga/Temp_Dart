@@ -5,9 +5,9 @@ A simple web application built with Dart that converts temperatures from Celsius
 ## Features
 
 - Input a temperature in Celsius.
-- 
+  
 - Convert the Celsius temperature to Fahrenheit.
-- 
+  
 - Display the conversion result on the web page.
 
 ## Project Structure
