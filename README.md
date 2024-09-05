@@ -2,7 +2,7 @@
 
 A simple web application built with Dart that converts temperatures from Celsius to Fahrenheit.
 
-## Features
+## Features  
 
 - Input a temperature in Celsius.
   
